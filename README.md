@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[YOUR_PORTFOLIO_LINK_OR_GITHUB]">
+  <a href="[https://github.com/TanvirJahan001]">
     <!-- Find or create a banner that represents you well! Size around 800x200 or 1000x250 is good -->
     <img src="[LINK_TO_YOUR_BANNER_IMAGE_OR_GIF]" alt="A.S.M. Tanvir Jahan - Web Designer & Front-end Developer" width="800"/>
   </a>
@@ -14,8 +14,8 @@
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME_HERE]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[YOUR_EMAIL_HERE]" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ash-sams-md-tanvir-jahan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tanvirjahan98@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- Add your Twitter, Portfolio, or other relevant links here -->
   <!-- Example: <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
   <!-- Example: <a href="[YOUR_PORTFOLIO_WEBSITE_LINK]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio- tärkeä?style=for-the-badge&logo=Basecamp&logoColor=white" /></a> -->
@@ -28,12 +28,11 @@
 I'm A.S.M. Tanvir Jahan, a freelance **Web Designer** and **Front-end Developer** with a strong passion for crafting beautiful, responsive, and user-friendly web experiences. I thrive on leveraging **modern technologies** to build innovative solutions.
 
 *   🎨 I bring ideas to life with clean code and engaging designs.
-*   🚀 I’m currently working on [Mention a specific project or type of project, e.g., "enhancing my portfolio with interactive React components" or "a new e-commerce UI kit"].
-*   🧠 I’m currently learning [e.g., "Advanced CSS Animations", "Astro", "State Management with Zustand", "TypeScript"].
+*   🚀 I’m currently working on React.js, Next.js, Redux.js.
+*   🧠 I’m currently learning "Advanced CSS Animations", "Astro", "State Management", "TypeScript".
 *   🤝 I’m looking to collaborate on exciting front-end projects, especially those pushing the boundaries of design and interactivity.
 *   💡 Ask me about: HTML, CSS, JavaScript, React, UI/UX design principles.
 *   📫 How to reach me: You can find my contact details above or drop me a message on LinkedIn!
-*   ⚡ Fun fact: [Something interesting or quirky about you!]
 
 ---
 
@@ -41,7 +40,7 @@ I'm A.S.M. Tanvir Jahan, a freelance **Web Designer** and **Front-end Developer*
 
 As a developer who loves modern tech, I enjoy working with:
 
-<p align="left">
+<p align="center">
   <!-- Core Web Technologies -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
@@ -87,32 +86,12 @@ As a developer who loves modern tech, I enjoy working with:
 
 ---
 
-## 🏆 My Projects
-
-As I build more projects, I'll showcase them here. Make sure to **Pin** your best repositories to your profile!
-
-<!-- Example of how to list projects (remove or replace with your actual projects) -->
-<!--
-| Project Name                                     | Description                                                                 | Tech Stack                      | Links                                                                                     |
-| ------------------------------------------------ | --------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------- |
-| **[Project Title 1]**                            | A stunning portfolio website template for creatives.                        | HTML, CSS, JavaScript           | [GitHub]([LINK_TO_REPO_1]) / [Live Demo]([LINK_TO_DEMO_1])                                |
-| **[Project Title 2]**                            | An interactive dashboard UI built with React and modern design principles.    | React, Tailwind CSS, Figma      | [GitHub]([LINK_TO_REPO_2]) / [Live Demo]([LINK_TO_DEMO_2])                                |
-| **[Your Next Awesome Project]**                  | _Coming Soon_                                                               | [Future Tech]                   | _Stay Tuned_                                                                              |
--->
-
-*   ✨ **[Your Pinned Project 1 Name]**: (Add a short description)
-*   🚀 **[Your Pinned Project 2 Name]**: (Add a short description)
-*   💡 **[Your Pinned Project 3 Name]**: (Add a short description)
-
-*(You can also replace the list above with a table or more detailed descriptions once you have projects to show.)*
-
----
 
 ## 🌱 What I'm Focusing On Next
 
-*   Deepening my knowledge of [A specific framework, e.g., "Next.js for full-stack capabilities"].
-*   Exploring [A new technology or concept, e.g., "Web Animations API" or "Server Components"].
-*   Building [Type of project, e.g., "more complex interactive UIs" or "a full-fledged web application"].
+*   Deepening my knowledge of Next.js for full-stack capabilities.
+*   Exploring "Web Animations API" or "Server Components.
+*   Building more complex interactive UIs" or "a full-fledged web application.
 
 ---
 
